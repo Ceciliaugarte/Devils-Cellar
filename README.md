@@ -1,0 +1,3 @@
+Devil's Cellar came to life as the culmination of our journey through the Hack Academy Web Development Bootcamp. As a team of four, we aimed to put our newfound knowledge into action.
+
+Our objective with Devil's Cellar was to curate a platform showcasing a diverse array of wines. We meticulously crafted an intuitive interface for users while building a robust backend for the site's management. This endeavor was more than just a display of technical prowess; it was a testament to our ability to collaborate effectively, tackle obstacles head-on, and deliver a web development project that not only met but surpassed both industry standards and user expectations.
